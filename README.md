@@ -35,11 +35,11 @@ Run the server and use Insomia or Postman to interact with the different endpoin
 Use API GET routes to return categories, products, and tags either all or single.
 Use API POST, PUT, and DELETE routes to create, update, and delete data in the database.
 
-![Example of GET request to return all products](./images/getall.JPG)
-![Example of GET request to return a single product](./images/getsingle.JPG)
-![Example of POST request to CREATE Category](./images/post.JPG)
-![Example of PUT request to UPDATE Category](./images/put.JPG)
-![Example of DEL request to DELETE Category by ID](./images/del.JPG)
+[Example of GET request to return all products](./images/getall.JPG)
+[Example of GET request to return a single product](./images/getsingle.JPG)
+[Example of POST request to CREATE Category](./images/post.JPG)
+[Example of PUT request to UPDATE Category](./images/put.JPG)
+[Example of DEL request to DELETE Category by ID](./images/delete.JPG)
 
 ## License
 
