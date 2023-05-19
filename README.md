@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a back end for an e-commerce site. Express.js API was configured to use Sequelize to interact with a MySQL database
+This is a back-end for an e-commerce site. Express.js API was configured to use Sequelize to interact with a MySQL database
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This is a back end for an e-commerce site. Express.js API was configured to use 
 
 ## Walkthrough-Video
 
-Watch this [video](https://drive.google.com/) demonstration to learn the functionality and how to use the application.
+Watch this [video](https://drive.google.com/file/d/1AfmtytSMPYm6eGD75IcohcctSgfl2Yxl/view?usp=sharing) demonstration to learn the functionality and how to use the application.
 
 ## Installation 
 
