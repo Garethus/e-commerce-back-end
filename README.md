@@ -29,8 +29,6 @@ Watch this [video](https://drive.google.com/) demonstration to learn the functio
 6. Run `npm run seed` to seed the database.
 7. Run `npm start` to initiate the server.
 
-![Installation screenshot](./images/installation.JPG)
-
 ## Usage
 
 Run the server and use Insomia or Postman to interact with the different endpoints of the database.
